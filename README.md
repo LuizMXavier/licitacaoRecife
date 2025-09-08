@@ -2,6 +2,7 @@
 
 
 💡 Histórias de Usuário
+
 Aqui estão as histórias de usuário que guiaram o desenvolvimento do nosso projeto de análise de licitações públicas em Recife:
 
 Visão Geral dos Gastos Públicos: Entender como a prefeitura de Recife distribui seus gastos em diferentes setores.
@@ -24,12 +25,15 @@ Licitações de Baixo Valor vs Alto Valor: Comparar as características dos proc
 
 Comparativo de Performance entre Comissões: Analisar a performance de diferentes comissões de licitação.
 
+
 🛠️ Ferramentas Tecnológicas
 Para o desenvolvimento deste projeto, utilizamos as seguintes ferramentas:
 
 Trello: Utilizado para a gestão e organização do projeto.
 
 Figma: Utilizado para a prototipação das interfaces e fluxos de trabalho.
+
+
 
 🧑‍🤝‍🧑 Equipe
 A equipe responsável por este projeto é composta por:
