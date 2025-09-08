@@ -28,7 +28,7 @@ Para o desenvolvimento deste projeto, utilizamos as seguintes ferramentas:
 
 ## 🛠️ Tela do quadro Trello
 
-
+![Tela do quadro Trello](./assets/trello.png)
 ---
 
 ## 🧑‍🤝‍🧑 Equipe
