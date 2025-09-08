@@ -26,6 +26,19 @@ Para o desenvolvimento deste projeto, utilizamos as seguintes ferramentas:
 
 ---
 
+---
+
+## 📂 Base de Dados
+
+As histórias de usuário foram construídas a partir da análise de dados extraídos das seguintes planilhas de licitações públicas de Recife:
+
+- [`dados_abertos_licitacao_concluida.csv`](./data/dados_abertos_licitacao_concluida.csv) → Contém informações sobre processos de licitação já concluídos.  
+- [`dados_abertos_licitacao_andamento.csv`](./data/dados_abertos_licitacao_andamento.csv) → Contém informações sobre processos de licitação em andamento.  
+
+Essas planilhas foram a principal fonte de informação para gerar insights sobre eficiência, fornecedores, modalidades e demais métricas analisadas no projeto.
+
+
+
 ## 🛠️ Tela do quadro Trello
 
 ![Tela do quadro Trello](./assets/trello.png)
