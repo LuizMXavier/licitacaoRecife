@@ -42,6 +42,7 @@ Essas planilhas foram a principal fonte de informação para gerar insights sobr
 ## 🛠️ Tela do quadro Trello
 
 ![Tela do quadro Trello](./assets/trello.png)
+https://trello.com/invite/b/68bdbaa0b059a459a7f10579/ATTI2c44e7a738c979a49214e75cc368f79dA94D6A46/projeto-fundamentos-de-software
 ---
 
 ## 🧑‍🤝‍🧑 Equipe
