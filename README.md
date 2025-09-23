@@ -46,7 +46,7 @@ Essas planilhas foram a principal fonte de informação para gerar insights sobr
 
 ---
 
-## 🛠️ Tela do Figma
+## 🛠️ Link do Figma
 
 [Figma](https://www.figma.com/design/N8ccFlaKjHANcWBJeYsEbN/Untitled?node-id=0-1&t=N0bdgiotEdowECy1-1)
 
