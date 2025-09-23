@@ -46,6 +46,12 @@ Essas planilhas foram a principal fonte de informação para gerar insights sobr
 
 ---
 
+## 🛠️ Tela do Figma
+
+[Figma](https://www.figma.com/design/N8ccFlaKjHANcWBJeYsEbN/Untitled?node-id=0-1&t=N0bdgiotEdowECy1-1)
+
+---
+
 ## 🧑‍🤝‍🧑 Equipe
 
 A equipe responsável por este projeto é composta por:
