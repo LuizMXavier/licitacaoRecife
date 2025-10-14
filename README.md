@@ -62,8 +62,7 @@ Essas planilhas foram a principal fonte de informação para gerar insights sobr
 ---
 
 ## 🛠️ Foto do Issues
-
-![Tela do quadro Issues](./assets/issues.png)
+<img width="1128" height="412" alt="Captura de tela 2025-10-14 203623" src="https://github.com/user-attachments/assets/dc658b8b-2f87-488b-9b23-0ac0383aade5" />
 
 ---
 
